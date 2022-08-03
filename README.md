@@ -26,6 +26,7 @@
 
 <p align="center" >
 <img src="https://user-images.githubusercontent.com/58034490/141354056-7bf12bcc-6ebc-4104-bd4e-d5e24db293f5.gif" width="70" alt="js">
+  <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="java" width="80" height="60"/>
 <img src="https://user-images.githubusercontent.com/58034490/141353050-4624e02a-84d4-4a97-a533-fd8bae9fd418.png" alt="css3" width="50" height="70"/> 
 <img src="https://user-images.githubusercontent.com/58034490/141353054-2350801b-ca74-40c5-87b8-c8e3cb909928.png" alt="html5" width="70" height="70"/>
 <img src="https://user-images.githubusercontent.com/58034490/141354514-b1d119b6-c960-4eb1-8178-12efd9a1fc83.gif" width="70" alt="github">
