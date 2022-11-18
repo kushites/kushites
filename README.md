@@ -11,7 +11,7 @@
 
 ----
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://spontaneous-meerkat-04dee1.netlify.app)  
+- 👨‍💻 All of my projects are available at [Portfolio](https://sanjay-kushwaha.netlify.app/)  
 
 ----
 
